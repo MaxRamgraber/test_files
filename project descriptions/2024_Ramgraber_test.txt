@@ -1,0 +1,31 @@
+**Title**
+<b>A<\b>dvancing <b>S<\b>ubsurface <b>C<\b>haracterization via <b>E<\b>nsemble <b>N<\b>onlinear <b>D<\b>ata assimilation (<b>ASCEND<\b>)
+
+**Abstract**
+The subsurface plays a critical role in confronting the challenges of a changing climate. It provides a safe source of drinking water amidst increasingly frequent droughts, and is a keystone of the energy transition through geothermal engineering and hydrogen storage. Despite its importance, insights into this complex environment are scarce, limiting our ability to fully characterize it. The resulting uncertainties demand careful statistical analysis to inform scientifically rigorous and societally responsible subsurface operations. Unfortunately, data assimilation remains challenging in subsurface systems. The statistical paradigm is divided between methods that are either efficient but simplistic (linear), or powerful but intractable (fully nonlinear). The consequences are over-simplification and incompleteness, respectively, which compromise our predictions and decision support, and thus impede geoscientific progress. In this project, I strive to bridge this methodological divide. The key to this is ensemble transport, an innovative statistical method with great capacity for customization. This allows me to create a data assimilation algorithm that shapes itself to the system’s demands, becoming as simple as possible and as complex as necessary. At present, ensemble transport is not yet applicable in high-dimensional subsurface systems. To change this, I will exploit two important features: First, I will advance grid-informed graph detection methods to efficiently discover the system’s web of variable inter-dependencies. Exploiting the resulting conditional independencies ensures scalability to high dimensions. Second, I will develop an adaptation algorithm that identifies an optimal individual degree of nonlinearity for each of the remaining dependencies. This improves statistical analyses and optimizes computational efficiency. Together, both research avenues combine into an efficient adaptive nonlinear data assimilation framework that will permit more precise uncertainty quantification, risk analysis, and stochastic forecasting in complex subsurface systems. Since this project tackles fundamental methodological limitations, I anticipate impact not only in subsurface research, but across the geosciences.
+
+**People, role, affiliation, department, section**
+Maximilian Ramgraber, Principal Investigator, TU Delft, Geoscience & Engineering, Reservoir Engineering
+Berent Lunde, Industry Partner, Equinor, *, *
+
+**Collaboratoring organizations, role**
+
+**Funding organization**
+NWO
+
+**Funding Scheme**
+Veni
+
+**Grant number**
+VI.Veni.232.140
+
+**Funding Amount**
+320,000€
+
+**Project website**
+
+**Start date**
+01.06.2024
+
+**End date**
+31.05.2028
