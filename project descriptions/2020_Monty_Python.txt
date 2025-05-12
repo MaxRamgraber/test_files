@@ -1,0 +1,40 @@
+**Title**
+Parrot Sketch
+
+**Abstract**
+A customer enters a pet shop.
+Customer (Cleese): 'Ello, I wish to register a complaint.
+(The owner does not respond.)
+C: 'Ello, Miss?
+Owner (Palin): What do you mean "miss"?
+C: I'm sorry, I have a cold. I wish to make a complaint!
+O: We're closin' for lunch.
+C: Never mind that, my lad. I wish to complain about this parrot what I purchased not half an hour ago from this very boutique.
+O: Oh yes, the, uh, the Norwegian Blue...What's,uh...What's wrong with it?
+C: I'll tell you what's wrong with it, my lad. 'E's dead, that's what's wrong with it!
+O: No, no, 'e's uh,...he's resting.
+C: Look, my lad, I know a dead parrot when I see one, and I'm looking at one right now.
+O: No no he's not dead, he's, he's restin'! Remarkable bird, the Norwegian Blue, idn'it, ay? Beautiful plumage!
+
+**People, role, affiliation, department, section**
+John Cleese, *, *, *, *
+
+**Collaboratoring organizations, role**
+Monty Python, General awesomeness
+
+**Funding organization**
+BBC
+
+**Funding Scheme**
+
+**Grant number**
+
+**Funding Amount**
+100$
+
+**Project website**
+
+**Start date**
+
+**End date**
+
